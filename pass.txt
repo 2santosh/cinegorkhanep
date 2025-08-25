@@ -1,0 +1,10 @@
+admin@gmail.com -> admin
+
+Staff
+man@gmail.com -> manager
+loan@gmail.com -> loan
+cash@gmail.com -> cash
+csd@gmail.com -> csd
+
+client 
+sonim@gmail.com -> sonim
